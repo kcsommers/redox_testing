@@ -1,0 +1,142 @@
+{
+  "appointments": [
+    {
+      "PatientFirstName": "Timothy",
+      "PatientLastName": "Bixby",
+      "PatientIdentifiers": [
+        {
+          "ID": "0000000001",
+          "IDType": "MR"
+        },
+        {
+          "ID": "e167267c-16c9-4fe3-96ae-9cff5703e90a",
+          "IDType": "EHRID"
+        },
+        {
+          "ID": "a1d4ee8aba494ca",
+          "IDType": "NIST"
+        }
+      ],
+      "VisitDateTime": "2018-09-16T01:11:24.601Z",
+      "VisitReason": "Check up",
+      "ProviderFirstName": "Pat",
+      "ProviderLastName": "Granite",
+      "ProviderID": "4356789876"
+    },
+    {
+      "PatientFirstName": "Barbara",
+      "PatientLastName": "Bixby",
+      "PatientIdentifiers": [
+        {
+          "ID": "0000000002",
+          "IDType": "MR"
+        },
+        {
+          "ID": "81ac9647-3a07-46b7-85b4-c5d09099fb3b",
+          "IDType": "EHRID"
+        },
+        {
+          "ID": "ffc486eff2b04b8^^^&1.3.6.1.4.1.21367.2005.13.20.1000&ISO",
+          "IDType": "NIST"
+        }
+      ],
+      "VisitDateTime": "2018-09-16T01:46:34.369Z",
+      "VisitReason": "Check up",
+      "ProviderFirstName": "John",
+      "ProviderLastName": "Slate",
+      "ProviderID": "4236464757"
+    },
+    {
+      "PatientFirstName": "Barbara",
+      "PatientLastName": "Bixby",
+      "PatientIdentifiers": [
+        {
+          "ID": "0000000002",
+          "IDType": "MR"
+        },
+        {
+          "ID": "81ac9647-3a07-46b7-85b4-c5d09099fb3b",
+          "IDType": "EHRID"
+        },
+        {
+          "ID": "ffc486eff2b04b8^^^&1.3.6.1.4.1.21367.2005.13.20.1000&ISO",
+          "IDType": "NIST"
+        }
+      ],
+      "VisitDateTime": "2018-09-16T01:46:34.369Z",
+      "VisitReason": "Check up",
+      "ProviderFirstName": "John",
+      "ProviderLastName": "Slate",
+      "ProviderID": "4236464757"
+    },
+    {
+      "PatientFirstName": "Barbara",
+      "PatientLastName": "Bixby",
+      "PatientIdentifiers": [
+        {
+          "ID": "0000000002",
+          "IDType": "MR"
+        },
+        {
+          "ID": "81ac9647-3a07-46b7-85b4-c5d09099fb3b",
+          "IDType": "EHRID"
+        },
+        {
+          "ID": "ffc486eff2b04b8^^^&1.3.6.1.4.1.21367.2005.13.20.1000&ISO",
+          "IDType": "NIST"
+        }
+      ],
+      "VisitDateTime": "2018-09-16T01:46:34.369Z",
+      "VisitReason": "Check up",
+      "ProviderFirstName": "John",
+      "ProviderLastName": "Slate",
+      "ProviderID": "4236464757"
+    },
+    {
+      "PatientFirstName": "Barbara",
+      "PatientLastName": "Bixby",
+      "PatientIdentifiers": [
+        {
+          "ID": "0000000002",
+          "IDType": "MR"
+        },
+        {
+          "ID": "81ac9647-3a07-46b7-85b4-c5d09099fb3b",
+          "IDType": "EHRID"
+        },
+        {
+          "ID": "ffc486eff2b04b8^^^&1.3.6.1.4.1.21367.2005.13.20.1000&ISO",
+          "IDType": "NIST"
+        }
+      ],
+      "VisitDateTime": "2018-09-16T01:46:34.369Z",
+      "VisitReason": "Check up",
+      "ProviderFirstName": "John",
+      "ProviderLastName": "Slate",
+      "ProviderID": "4236464757"
+    },
+    {
+      "PatientFirstName": "Barbara",
+      "PatientLastName": "Bixby",
+      "PatientIdentifiers": [
+        {
+          "ID": "0000000002",
+          "IDType": "MR"
+        },
+        {
+          "ID": "81ac9647-3a07-46b7-85b4-c5d09099fb3b",
+          "IDType": "EHRID"
+        },
+        {
+          "ID": "ffc486eff2b04b8^^^&1.3.6.1.4.1.21367.2005.13.20.1000&ISO",
+          "IDType": "NIST"
+        }
+      ],
+      "VisitDateTime": "2018-09-16T01:46:34.369Z",
+      "VisitReason": "Check up",
+      "ProviderFirstName": "John",
+      "ProviderLastName": "Slate",
+      "ProviderID": "4236464757"
+    }
+  ]
+}
