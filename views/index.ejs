@@ -2,3 +2,15 @@
 <form action="/patientsearch" method="POST">
     <input type="submit" value="Get Patient Info" />
 </form>
+
+<% appointments.forEach(function(app){ %> 
+  <div>
+    <p>First Name: <%= app.PatientFirstName %></p>
+    <p>Last Name: <%= app.PatientLastName %></p>
+    <p>Visit Date: <%= app.VisitDateTime %></p>
+    <p>Reason for Visit: <%= app.VisitReason %></p>
+    <p>Provider First Name: <%= app.ProviderFirstName %></p>
+    <p>Provider Last Name: <%= app.ProviderLastName %></p>
+  </div>
+  <hr />
+<% }); %>

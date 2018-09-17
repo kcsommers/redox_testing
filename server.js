@@ -219,7 +219,7 @@ var getPatient = function() {
     request.post(options, function(err, response, body) {
       console.log('PATIENT RESPONSE');
       console.log('ERR', err);
-      console.log('RESPONSE', response);
+      console.log('RESPONSE', response.statusCode);
       console.log('BODY', body);
     });
   });
@@ -228,8 +228,9 @@ var getPatient = function() {
 app.get('/', function(req, res) {
     console.log('GET DESTINATION HIT');
     if(req.headers['verification-token'] = destinationToken) {
+        let appointments = db.get('appointments').value();
         console.log('verification-token matched!');
-        res.render('index');
+        res.render('index', {appointments});
         // res.send(req.query.challenge);
     }
     else {
